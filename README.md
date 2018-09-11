@@ -2,7 +2,7 @@
 ## Problem: Predict whether or not a passenger survive the shipwreck¶
 
 ## Objective:
-## The goal of this model is to predict survival in the sinking titanic ship, This model should be able to accurately predict survival with related subsets of passengers' information is provided.
+### The goal of this model is to predict survival in the sinking titanic ship, This model should be able to accurately predict survival with related subsets of passengers' information is provided.
 # Content:
 ## Introduction
 ## Data Acquisition
